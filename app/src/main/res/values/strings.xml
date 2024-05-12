@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inside_bottom_sheet">Inside bottom sheet</string>
+    <string name="items">Items</string>
+    <string name="show_bottom_sheet">Show bottom Sheet</string>
+</resources>
